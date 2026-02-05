@@ -1,0 +1,2 @@
+Veullez entrer une heure sous la forme hh:mm:ss :
+Le nombre de secondes totales est : 45296

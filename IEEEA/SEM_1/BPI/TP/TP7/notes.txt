@@ -1,0 +1,2 @@
+Veuillez saisir un entier positif :
+01 | 04 | 09 | 19 | 
