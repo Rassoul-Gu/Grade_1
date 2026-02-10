@@ -19,4 +19,7 @@ debut : ; debut des instructions
 
 code ends ; fin du segment de memoire dedie au code
 end debut ; fin du programme
-         
+          ;En hexadecimal ils sont codés de la meme façon que dans mon ligne de
+          ;code en language assembleur
+
+          ; Le résultat de l'addition est 0048 stocké dans ax

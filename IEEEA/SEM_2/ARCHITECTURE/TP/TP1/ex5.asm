@@ -3,8 +3,8 @@ assume    CS : code
 code      segment
 
 debut :
-          mov AL, -114
-          add AL, -105
+          mov AX, -114h
+          add AX, -105h
           mov AX, 4C00h
           int 21h
 code      ends
